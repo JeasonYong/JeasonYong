@@ -20,16 +20,8 @@ No activity tracked
 
 
 
-```html
-<img src="https://img.shields.io/badge/Java-blue" style="display: inline-block;" /> 
-<img src="https://img.shields.io/badge/Spring-green" style="display: inline-block;" /> 
-<img src="https://img.shields.io/badge/Mysql-brown" style="display: inline-block;" />
-<img src="https://img.shields.io/badge/Python-yellow" style="display: inline-block;" />
-<img src="https://img.shields.io/badge/Linux-Cambridge%20blu=e" style="display: inline-block;" /> 
-<img src="https://img.shields.io/badge/Docker-violet" style="display: inline-block;" /> 
-<img src="https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-yellow" style="display: inline-block;" /> 
-<img src="https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80-red" style="display: inline-block;" /> 
-```
 
 
 
+
+<img src="https://img.shields.io/badge/Java-blue" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Spring-green" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Mysql-brown" style="display: inline-block;" /><img src="https://img.shields.io/badge/Python-yellow" style="display: inline-block;" /><img src="https://img.shields.io/badge/Linux-Cambridge%20blu=e" style="display: inline-block;" /> <img src="https://img.shields.io/badge/Docker-violet" style="display: inline-block;" /> <img src="https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-yellow" style="display: inline-block;" /> <img src="https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80-red" style="display: inline-block;" /> 
